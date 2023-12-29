@@ -4,9 +4,10 @@ I am a Tech Enthusiast with over 10+ years of experience in DevOps, Agile method
 
 
 
-📫 How to reach me:
+📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/sanilreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanilreddy" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/sanilreddy" target="blank"><img align="center"src="https://github.com/anilsakr/anilsakr/blob/ef5b7cc207bfe208f4cdbfce51feb50915e3dd5f/assets/LI-In.png" alt="sanilreddy" height="30" width="35" /></a>
+  <a href="https://www.behance.net/anilreddys" target="blank"><img align="center"src="https://raw.githubusercontent.com/anilsakr/anilsakr/ef5b7cc207bfe208f4cdbfce51feb50915e3dd5f/assets/behance-1.svg" alt="anilreddys" height="30" width="35" /></a>
 </p>
 <!--
 **anilsakr/anilsakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
