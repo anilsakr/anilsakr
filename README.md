@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Anil Saripiralla
 
-I am a Tech Enthusiast with over 10+ years of experience in DevOps, Agile methodologies, SDLC. I have hands-on experience supporting, automating, and optimizing mission-critical deployments in cloud, leveraging configuration management, CI/CD, and DevOps processes. I have multi-cloud knowledge like AWS, Azure, GCP and have managed, monitored & troubleshooted the Cloud & Database Server 24/7 to minimize downtime and maximize high availability.
+I am a Tech Enthusiast with over 10+ years of experience in DevOps, Agile methodologies, SDLC. I have hands-on experience Implementing, automating, and optimizing mission-critical deployments in cloud, leveraging configuration management, CI/CD, and DevOps processes. I have multi-cloud knowledge like AWS, Azure, GCP and have managed, monitored & troubleshooted the Cloud & Database Server 24/7 to minimize downtime and maximize high availability.
 
 
 
