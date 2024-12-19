@@ -4,10 +4,10 @@ I am a Tech Enthusiast with over 11+ years of experience in DevOps, Agile method
 
 ### 🛠️ Tech Stack & Skills
 - **Cloud Platforms:** AWS, Azure, GCP
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Ansible, Terraform, Git
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, Helm, Chef, OCP, GitOps
 - **Programming Languages:** Python, Bash, JavaScript
-- **CI/CD:** GitHub Actions, GitLab CI/CD, CircleCI
-- **Monitoring:** Prometheus, Grafana, Nagios
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD
+- **Monitoring:** Dynatrace, Prometheus, Grafana, ELK
 - **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Artificial Intelligence:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-Learn
 
