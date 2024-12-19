@@ -30,7 +30,7 @@ I am a Tech Enthusiast with over 11+ years of experience in DevOps, Agile method
   <a href="https://g.dev/anils" target="blank"><img align="center" src="https://raw.githubusercontent.com/anilsakr/anilsakr/main/assets/google-developers-svgrepo-com.svg" alt="anilreddys" height="30" width="35" /></a>
 </p>
 
----
+<!---
 
 **anilsakr/anilsakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
