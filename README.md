@@ -9,7 +9,7 @@ I am a Tech Enthusiast with over 11+ years of experience in DevOps, Agile method
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD
 - **Monitoring:** Dynatrace, Prometheus, Grafana, ELK
 - **Database Management:** MySQL, PostgreSQL, MongoDB
-- **Artificial Intelligence:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-Learn
+- **Artificial Intelligence:** Machine Learning, AIOps
 
 ### 🌟 Achievements
 - Successfully led the migration of a large-scale enterprise application to AWS, resulting in a 30% reduction in infrastructure costs.
