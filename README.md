@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Anil Saripiralla
 
-I am a Tech Enthusiast with over 11+ years of experience in DevOps, Agile methodologies, and the Software Development Life Cycle (SDLC). I specialize in automating and optimizing mission-critical deployments in the cloud, leveraging configuration management, CI/CD, and DevOps processes. I have expertise in multi-cloud environments, including AWS, Azure, and GCP, and excel in managing, monitoring, and troubleshooting cloud and database servers 24/7 to minimize downtime and maximize high availability.
+I am a Tech Enthusiast with over 11+ years of experience in DevOps, Agile methodologies, software engineering, cloud computing, SRE, Platform Engineering specialist, AIOps, and ML Ops. I specialize in automating and optimizing mission-critical deployments in the cloud, leveraging configuration management, CI/CD, and DevOps processes. I have expertise in multi-cloud environments, including AWS, Azure, and GCP, and excel in managing, monitoring, and troubleshooting cloud and database servers 24/7 to minimize downtime and maximize high availability.
 
 ### 🛠️ Tech Stack & Skills
 - **Cloud Platforms:** AWS, Azure, GCP
